@@ -4,3 +4,5 @@ In many speech signal processing applications, voice activity detection (VAD) pl
 audio stream into time intervals that contain speech activity and time intervals where speech is absent.
 One important aspect of designing a VAD algorithm is the selection of features that represent discriminative
 properties of speech and noise.In this code we are going to calculate ZCR and Energy of signals.
+There are some samples recorded by me. you can easily use them when running the code.
+If there is any problem about the versions you use, requirements.txt can help you.
